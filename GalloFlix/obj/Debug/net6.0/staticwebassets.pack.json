@@ -1,0 +1,565 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\css\\account.css",
+      "PackagePath": "staticwebassets\\css\\account.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\logosmall.png",
+      "PackagePath": "staticwebassets\\img\\logosmall.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\06.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\07.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\08.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\09.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\19.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\21.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\22.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\23.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\24.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\25.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\26.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\27.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\28.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\29.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\30.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\31.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\32.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\33.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\34.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\35.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\36.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\37.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\38.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\39.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\40.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\41.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\42.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\43.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\44.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\45.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\46.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\47.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\48.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\49.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\50.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\51.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\52.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\53.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\54.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\55.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\56.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\57.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\58.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\59.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\59.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\60.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\61.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\62.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\63.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\64.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\64.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\65.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\65.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\66.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\67.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\67.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\68.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\69.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\69.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\img\\movies\\70.jpg",
+      "PackagePath": "staticwebassets\\img\\movies\\70.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\js\\color-modes.js",
+      "PackagePath": "staticwebassets\\js\\color-modes.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\GalloFlix-08-08-24\\GalloFlix\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GalloFlix.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GalloFlix.props",
+      "PackagePath": "build\\GalloFlix.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GalloFlix.props",
+      "PackagePath": "buildMultiTargeting\\GalloFlix.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GalloFlix.props",
+      "PackagePath": "buildTransitive\\GalloFlix.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
